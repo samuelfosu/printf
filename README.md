@@ -1,6 +1,6 @@
 Team Project "printf()"
 
-Samuel Fosu and Calistus Okechukwu, who are current Software Engineering students at Holberton School, collaborated on the printf project, where a function called "_printf" mimics the actual "printf" command found in the stdio.h library. It includes some of the fundamental attributes and capabilities listed in printf's manual page three.
+Samuel Fosu and Calistus Okechukwu, who are current Software Engineering students of ALX, collaborated on the printf project, where a function called "_printf" mimics the actual "printf" command found in the stdio.h library. It includes some of the fundamental attributes and capabilities listed in printf's manual page three.
 
 _printf() is a function that performs formatted output conversion and print data.
 
