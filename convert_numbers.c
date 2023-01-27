@@ -64,7 +64,9 @@ unsigned int convert_di(va_list args, buffer_t *output,
 	if (!(d == 0 && prec == 0))
 		ret += convert_sbase(output, d, "0123456789" flags, 0, prec);
 	ret += print_neg_width(output, ret, flags, wid);
+	return (ret);
 }
+
 /**
  * convert_b - Converts an unsigned int argument to binary
  *             and stores it to a buffer contained in a struct.
