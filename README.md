@@ -1,7 +1,5 @@
 #The printf Collaborative Project: A Journey into Standardized Output in Programming.
-#A project collaboratively developed by Samuel Folu and Mercy Adeleye.
-#mercy90203@gmail.com
-#ALX SE, Cohort 22. 
+
 Introduction:
 In the world of programming, effective communication between a program and its user or developer is crucial. One essential tool for achieving this is the printf function, which has become a standard for formatted output in various programming languages. The printf collaborative project is an exploration of this powerful and versatile function, delving into its history, functionality, and collaborative development across different programming communities.
 
@@ -28,4 +26,6 @@ The printf collaborative project exemplifies the power of a standardized and ver
 
 
 #ATHORS
+
 SAMUEL FOSU <sfosu003@gmail.com>
+MERCY ADEYELE <mercy90203@gmail.com>
