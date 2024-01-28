@@ -1,4 +1,4 @@
-#The printf Collaborative Project: A Journey into Standardized Output in Programming.
+The printf Collaborative Project: A Journey into Standardized Output in Programming.
 
 Introduction:
 In the world of programming, effective communication between a program and its user or developer is crucial. One essential tool for achieving this is the printf function, which has become a standard for formatted output in various programming languages. The printf collaborative project is an exploration of this powerful and versatile function, delving into its history, functionality, and collaborative development across different programming communities.
@@ -25,7 +25,8 @@ Conclusion:
 The printf collaborative project exemplifies the power of a standardized and versatile tool in the world of programming. As a fundamental function for formatted output, printf has transcended its origins in C to become a shared resource across various programming communities. The collaborative efforts to refine, extend, and standardize printf showcase the dynamic and interconnected nature of the programming landscape, where ideas flow seamlessly between languages and communities, contributing to a shared foundation of knowledge and tools.
 
 
-#ATHORS
+AUTHORS
 
 SAMUEL FOSU <sfosu003@gmail.com>
+
 MERCY ADEYELE <mercy90203@gmail.com>
