@@ -3,6 +3,7 @@
 /**
  * print_char - Prints a char
  * Return: chars printed
+ * Functions in C 
  */
 
 int print_char(va_list types, char buffer[],
