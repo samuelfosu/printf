@@ -3,6 +3,7 @@
 /**
  * print_unsigned - Prints an unsigned number
  * Return: Number of chars printed.
+ * functions in C
  */
 
 int print_unsigned(va_list types, char buffer[],
