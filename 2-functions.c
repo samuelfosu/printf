@@ -3,6 +3,7 @@
  * print_pointer - Prints the value of a pointer variable
  *
  * Return: chars printed
+ * Functions in C
  */
 
 int print_pointer(va_list types, char buffer[],
