@@ -25,7 +25,7 @@ Conclusion:
 The printf collaborative project exemplifies the power of a standardized and versatile tool in the world of programming. As a fundamental function for formatted output, printf has transcended its origins in C to become a shared resource across various programming communities. The collaborative efforts to refine, extend, and standardize printf showcase the dynamic and interconnected nature of the programming landscape, where ideas flow seamlessly between languages and communities, contributing to a shared foundation of knowledge and tools.
 
 
-AUTHORS
+AUTHORS:
 
 SAMUEL FOSU <sfosu003@gmail.com>
 
